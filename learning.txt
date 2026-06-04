@@ -1,0 +1,15 @@
+logger.py is for learning error loging and logging configuration  and that is a module creweated by me for centralize the configiuration for my project
+
+flask_learning.py is a individual file for learning flakt to run this python flask_learning.py is used 
+
+
+argsparser_learnig.py is for learning argspharse to run python argspareser_learning.py yuva 12 cbe
+
+
+
+
+i am learing git this is my first change after i learned git init
+
+Learning Git - First Change
+
+i am learning git type nul heyy hi
