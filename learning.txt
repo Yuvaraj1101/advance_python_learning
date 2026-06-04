@@ -17,8 +17,8 @@ i am learning git type nul heyy hi
 =======
 i am learning git type nul heyy his
 
-
 apple
 
 bannaa
 >>>>>>> 288377d (i added banna)
+ heeey hii
