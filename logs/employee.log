@@ -5,3 +5,10 @@
 2026-06-02 15:36:20,020 - ERROR - Employee 105 Salary Error : Salary cannot be negative
 2026-06-02 15:36:20,020 - INFO - Employee 106 Created Successfully
 2026-06-02 15:36:20,020 - INFO - Employee 107 Created Successfully
+2026-06-08 15:16:15,029 - INFO - Employee 101 Created Successfully
+2026-06-08 15:16:15,029 - ERROR - Employee 102 Name Error : Name should contain only alphabets
+2026-06-08 15:16:15,029 - ERROR - Employee 103 Name Error : Name should contain only alphabets
+2026-06-08 15:16:15,030 - INFO - Employee 104 Created Successfully
+2026-06-08 15:16:15,030 - ERROR - Employee 105 Salary Error : Salary cannot be negative
+2026-06-08 15:16:15,030 - INFO - Employee 106 Created Successfully
+2026-06-08 15:16:15,030 - INFO - Employee 107 Created Successfully

@@ -13,6 +13,7 @@ i am learing git this is my first change after i learned git init
 Learning Git - First Change
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 i am learning git type nul heyy hi
 =======
 i am learning git type nul heyy his
@@ -22,3 +23,14 @@ apple
 bannaa
 >>>>>>> 288377d (i added banna)
  heeey hii
+=======
+i am learning git type nul heyy his
+
+
+apple
+
+bannaa
+
+carrot 
+heyy hello r u there 
+>>>>>>> jello
