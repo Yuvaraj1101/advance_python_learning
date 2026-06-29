@@ -1,6 +1,1 @@
-#h i also remover everthing thi s commit
-hrrry thrre 
-jnvjbvkr
-v jnfvnl
-v iknmf
-f jnv
+#hey there i am try to learn git heyy there this summa 
